@@ -10,8 +10,8 @@
 
 - 🔭 I'm currently working on **Enterprise Mobile Applications**
 - 🌱 I'm currently learning **AWS, Kubernetes, DevOps**
-- 💼 Built a **comprehensive mobile app** that improved business efficiency by **60%**
-- 🚗 Developed **real-time vehicle tracking system** with offline capabilities
+- 💼 Built a comprehensive mobile app with real-time sync & offline capabilities that improved business efficiency by **60%**
+- 🚗 Developed real-time vehicle tracking system with live GPS monitoring
 - 🎯 2025 Goals: **Contribute to Open Source, Master Cloud Technologies**
 - 💬 Ask me about **React Native, Node.js, TypeScript, Mobile Development**
 - 📫 How to reach me: **cnkyvzz@gmail.com**
