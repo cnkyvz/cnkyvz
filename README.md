@@ -62,7 +62,7 @@
 
 ## 🔥 Featured Projects
 
-### 📱 [Artemis Enterprise Mobile App](https://github.com/cnkyvz/artemis-enterprise-mobile-app)
+### 📱 [Simetra Enterprise Mobile App](https://github.com/cnkyvz/artemis-enterprise-mobile-app)
 **Full-stack mobile application with offline capabilities**
 - 🚀 **Tech**: React Native, Node.js, PostgreSQL, Google Cloud
 - 🎯 **Impact**: 60% efficiency improvement in field operations
