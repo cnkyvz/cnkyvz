@@ -55,9 +55,13 @@
 
 </div>
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=cnkyvz&theme=algolia&no-frame=true&no-bg=false&margin-w=4" alt="cnkyvz trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cnkyvz&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cnkyvz&theme=algolia&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=FFA500" alt="GitHub Streak" />
 </p>
 
 ## 🔥 Featured Projects
