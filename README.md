@@ -57,7 +57,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=cnkyvz&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2" alt="cnkyvz" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=cnkyvz&theme=algolia&no-frame=true&no-bg=false&margin-w=4" alt="cnkyvz trophies" />
 </p>
 
 ## 🔥 Featured Projects
